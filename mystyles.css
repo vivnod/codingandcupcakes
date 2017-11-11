@@ -1,6 +1,6 @@
 html, body {
 	background: #f5c9c9;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Georgia', sans-serif;
 	color: #6C6B6B;
 	margin: 0px;
 	padding: 0px;
@@ -24,7 +24,7 @@ p {
 	overflow: auto;
 	display: block;
 	clear:both;
-	background: #F2D02B;
+	background: #59F0D2;
 }
 
 .inner{
@@ -79,6 +79,7 @@ ul.menu li  a.selected {
 	display: block;
 	margin: 0px auto;
 	clear:both;
+	background-color: #F05975;
 	
 }
 
